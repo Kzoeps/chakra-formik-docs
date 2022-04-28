@@ -32,7 +32,6 @@ const FeatureList = [
   },
 ];
 
-const Title = (title) => <h3>{title}</h3>
 function Feature({link = undefined, title, description}) {
   return (
     <div className={clsx('col col--4')}>

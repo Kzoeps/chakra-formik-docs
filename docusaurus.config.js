@@ -45,13 +45,12 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'intro',
+            docId: 'getting-started',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Guide',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/kzoeps/chakra-formik',
             label: 'GitHub',
             position: 'right',
           },
