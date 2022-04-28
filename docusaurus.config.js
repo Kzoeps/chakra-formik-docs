@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Chakra Formik',
   tagline: 'Easily bind your chakra-ui forms with Formik',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://chakra-formik-docs.vercel.app/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
